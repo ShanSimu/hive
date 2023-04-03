@@ -905,6 +905,12 @@
       </exclusions>
     </dependency>
   </dependencies>
+  <repositories>
+    <repository>
+      <id>springio-plugins-release</id>
+      <url>https://repo.spring.io/plugins-release</url>
+    </repository>
+</repositories>
   <profiles>
     <profile>
       <id>sources</id>
