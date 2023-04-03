@@ -910,7 +910,7 @@
       <id>springio-plugins-release</id>
       <url>https://repo.spring.io/plugins-release</url>
     </repository>
-</repositories>
+  </repositories>
   <profiles>
     <profile>
       <id>sources</id>
