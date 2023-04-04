@@ -907,8 +907,8 @@
   </dependencies>
   <repositories>
     <repository>
-      <id>springio-plugins-release</id>
-      <url>https://repo.spring.io/plugins-release</url>
+      <id>spring-libs</id>
+      <url>http://repo.spring.io/libs-milestone/</url>
     </repository>
   </repositories>
   <profiles>
